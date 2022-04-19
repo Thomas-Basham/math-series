@@ -24,3 +24,4 @@
 ### Credit
 
 [I'm lazy and found this fibonacci algorithm](https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/)
+[And this one](https://www.geeksforgeeks.org/lucas-numbers/)
