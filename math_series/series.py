@@ -29,4 +29,3 @@ def lucas(n):
 
 
 print(lucas(1))
-
