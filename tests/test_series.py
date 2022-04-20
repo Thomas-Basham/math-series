@@ -34,6 +34,7 @@ def test_lucas_one():
     assert lucas(1) == 2
 
 
+
 def test_lucas_two():
     assert lucas(2) == 1
 
